@@ -71,7 +71,7 @@ btn10.addEventListener("click",()=>{
     screen.innerText = expression;
 })
 btn11.addEventListener("click",()=>{
-   expression += "X";
+   expression += "*";
     screen.innerText = expression;
 })
 btn12.addEventListener("click",()=>{
